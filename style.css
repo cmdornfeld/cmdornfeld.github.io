@@ -10,17 +10,17 @@ body {
 }
 
 #name {
-	margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
+	margin: 16px;
+	padding: 16px;
 	font-size: 36px;
 	font-weight: bold;
-	letter-spacing: -2px;
+	letter-spacing: 2px;
 	border-bottom: 1px solid #999;
 }
 
 #content-summarycontent {
-	margin: 0 0 16px 0;
-	padding: 0 0 32px 0;
+	margin: 16px;
+	padding: 32px;
 
 	font-style: italic;
 	font-size: 20px;
