@@ -1,48 +1,47 @@
 body {
 	font-size: 16px;
 	font-family: Calibri, Cambria, Helvetica;
-
+	background-color: beige;
+	
 }
 
 #container {
 	width: 800px;
-	margin: 40px auto 60px;
+	margin: 20px auto 40px;
+	padding: 40px;
+	
 }
 
 #name {
-	margin: 16px;
-	padding: 16px;
 	font-size: 36px;
 	font-weight: bold;
-	letter-spacing: 2px;
-	border-bottom: 1px solid #999;
+	}
+
+#email {
+	font-size: 16px;
+	float: right;
 }
 
-#content-summarycontent {
-	margin: 16px;
-	padding: 32px;
+#contactinfo {
+	position: inherit;
+	justify-content: center;
+}
 
+#summaryinfo {
 	font-style: italic;
-	font-size: 20px;
-}
-
-#content-professionalheader {
-	font-size: 20px;
-}
-
-#content-educationheader {
 	font-size: 20px;
 }
 
 .date {
 	float: right;
+	font-weight: bold;
+	font-style: italic;
 }
 
 h3 {
-	border-bottom: 1px solid black;
+	border-bottom: 2px dotted black;
 }
 
-h4{
-	margin-top: 0px;
-	margin-bottom: 0px;
+h2 {
+	text-decoration: underline;
 }
