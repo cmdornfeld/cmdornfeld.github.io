@@ -1,7 +1,7 @@
 body {
 	font-size: 16px;
 	font-family: Calibri, Cambria, Helvetica;
-	background-color: beige;
+	background-color: darkslategrey;
 	
 }
 
@@ -9,6 +9,7 @@ body {
 	width: 800px;
 	margin: 20px auto 40px;
 	padding: 40px;
+	background-image: linear-gradient(to right, tan, beige);
 	
 }
 
